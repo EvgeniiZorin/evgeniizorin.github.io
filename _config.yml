@@ -1,0 +1,19 @@
+# This file contains configuration flags for the site
+
+# Name of your site
+title: Miniplistic
+
+# Site Tagline 
+tagline: A simple Jekyll Theme
+
+# Site Description 
+description: A simple Jekyll Theme
+
+# Your website URL 
+url: https://patrickmfsd.github.io
+
+blog: "/" 
+projects: "/projects"
+Membership: "/404"
+contact: "/contact"
+about: "/about"
