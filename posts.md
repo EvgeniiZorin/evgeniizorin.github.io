@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Posts
-permalink: /posts/
+# permalink: /posts/
 ---
-Here you can find all the posts I made.
+
+Here you can find all the posts that I've written about things that interest me, mainly Data Science and Programming.

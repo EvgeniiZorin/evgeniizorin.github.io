@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
+# permalink: /about/
 ---
 
 I am Evgenii Zorin, a Data Scientist with more than three years of experience. 
 
-<img src="ez.png" width="200" style="display: block; margin: 0 auto">
+<img src="images/ez.png" width="200" style="display: block; margin: 0 auto">
 
 I use primarily Python and Bash in my daily work. The bulk of my experience and knowledge lies in the following areas:
 - **Machine Learning / NLP**
