@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "blogpost"
-date:   2024-01-01 
+title:  "Job Search and my findings"
+date:   2024-11-09 
 categories: jekyll update
 ---
+
+blablabla 
 
 # Heading 1
 

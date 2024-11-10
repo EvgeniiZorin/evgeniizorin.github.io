@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Evgenii Zorin, a Data Scientist with more than three years of experience. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<img src="ez.png" width="200" style="display: block; margin: 0 auto">
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I use primarily Python and Bash in my daily work. The bulk of my experience and knowledge lies in the following areas:
+- **Machine Learning / NLP**
+- **SQL** (I mainly work with PostgreSQL and GCP BigQuery)
+- Building of **Dashboards** and **Visualisations** (Python Matplotlib, Seaborn, Plotly and Plotly Dash)
+- **Data Analysis** with Python (Pandas, PySpark)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Please feel free to check out my [Github](https://github.com/EvgeniiZorin).
