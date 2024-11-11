@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Hello and welcome to my simple personal website! 
+Hello and welcome to my simple personal website! 
 
 <img src="images/welcome.png" width="500" style="display: block; margin: 0 auto">
 
