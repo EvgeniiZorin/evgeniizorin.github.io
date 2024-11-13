@@ -7,6 +7,9 @@ layout: home
 
 Hello and welcome to my simple personal website! 
 
-<img src="images/welcome.png" width="500" style="display: block; margin: 0 auto">
+<img src="images/welcome.png" width="400" style="display: block; margin: 0 auto">
 
-Here, I will post some of my thoughts in a blog post, list the books and courses I have taken throughout my career, as well as share some interesting links. 
+On this website I will be posting different things that interest me, be it:
+- My thoughts on different subjects in a blog post;
+- Books and courses I have taken in the CPD (Continuous Professional Development) section;
+- Share some interesting facts about me in the About section. 
