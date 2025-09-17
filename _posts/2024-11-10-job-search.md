@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Job Search and my findings"
+title:  "My 2024 Job Search"
 date:   2024-11-10 
 categories: jekyll update
 permalink: /post1/

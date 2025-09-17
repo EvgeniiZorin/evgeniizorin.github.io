@@ -11,6 +11,8 @@ I am Evgenii Zorin, a **Data Scientist** working primarily with NLP.
 
 You can find me on [Github](https://github.com/EvgeniiZorin).
 
+> As you can see, the website is very simple, but this is by design, allowing me to focus more on the Data Science things that I really enjoy.  
+
 On this website I will be posting different things that interest me, be it:
 - My thoughts on different subjects in a blog post;
 - Books and courses I have taken in the CPD (Continuous Professional Development) section;
