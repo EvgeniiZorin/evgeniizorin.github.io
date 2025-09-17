@@ -5,9 +5,11 @@
 layout: home
 ---
 
-Hello and welcome to my simple personal website! 
+I am Evgenii Zorin, a **Data Scientist** working primarily with NLP.
 
-<img src="images/welcome.png" width="400" style="display: block; margin: 0 auto">
+<img src="images/ez.png" width="200" style="display: block; margin: 0 auto">
+
+You can find me on [Github](https://github.com/EvgeniiZorin).
 
 On this website I will be posting different things that interest me, be it:
 - My thoughts on different subjects in a blog post;
