@@ -16,6 +16,8 @@ Here I would like to showcase all the resources that I have used for my **CPD (C
 
 You can see a full list of Data Science and Programming - related books that I have read on my [Goodreads](https://www.goodreads.com/review/list/145948565-evgenii-zorin?shelf=_data-science). If you wish to make me a present, you can check which book I currently desire on the [dedicated shelf on Goodreads](https://www.goodreads.com/review/list/145948565-evgenii-zorin?shelf=want-to-read-science-tech).
 
+Additionally, when I read books, I enjoy finding mistakes in them, as well as making additional notes to enhance the learning experience. You can find them in this Github repository: [Booknotes_personal_observations](https://github.com/EvgeniiZorin/Booknotes_personal_observations).
+
 | Resource | My thoughts |
 | - | - |
 | **Essential Math for Data Science** - Thomas Nield (O'Reily) <br> <a href="images/essential-math-for-data-science.png"><img src="images/essential-math-for-data-science.png"></a> | While not as rigorous and comprehensive as other books on Data Science, this one is a relatively easy read that is perfect for revising challenging theoretical concepts in Machine Learning. |
