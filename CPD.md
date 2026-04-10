@@ -18,11 +18,11 @@ You can see a full list of Data Science and Programming - related books that I h
 
 Additionally, when I read books, I enjoy finding mistakes in them, as well as making additional notes to enhance the learning experience. You can find them in this Github repository: [Booknotes_personal_observations](https://github.com/EvgeniiZorin/Booknotes_personal_observations).
 
-| Resource | My thoughts |
-| - | - |
-| **Essential Math for Data Science** - Thomas Nield (O'Reily) <br> <a href="images/essential-math-for-data-science.png"><img src="images/essential-math-for-data-science.png"></a> | While not as rigorous and comprehensive as other books on Data Science, this one is a relatively easy read that is perfect for revising challenging theoretical concepts in Machine Learning. |
-| **Grokking Machine Learning** - Luis Serrano, Manning Publications <br> <a href="images/grokking-machine-learning.png"><img src="images/grokking-machine-learning.png"></a> | This book is an excellent introduction into the world of Machine Learning - it uses very simple examples to explain different ML algorithms and Gradient Boosting. I believe that this is the best book that a person can choose to start their journey into the world of ML. |
-| **Learning SQL** - Alan Beaulieu (O'Reily) <br> <img src="images/learning-sql-oreily.png"> | |
+
+| | | |
+| - | - | - |
+| <a href="https://www.oreilly.com/library/view/essential-math-for/9781098102920/"><img src="images/cpd_books/essential-math-for-data-science_RESIZED.png"></a> | <a href="https://www.manning.com/books/grokking-machine-learning"><img src="images/cpd_books/grokking-machine-learning_RESIZED.png"></a> | <a href="https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/"><img src="images/cpd_books/learning-sql-oreily_RESIZED.png"> |
+| <a href="https://www.amazon.com/dp/B0BLM4TLPY"><img src="images/cpd_books/statquest_ml_RESIZED.png"></a> | <a href=""><img src="images\cpd_books\practical-statistics-for-data-scientists_RESIZED.png"></a> | <a href="https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/"><img src="images\cpd_books\storytelling-with-data_RESIZED.png"></a> |
 
 
 # Courses and certificates
